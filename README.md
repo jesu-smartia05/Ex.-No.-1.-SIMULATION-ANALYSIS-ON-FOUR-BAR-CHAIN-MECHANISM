@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 8.4.24
 
 ## AIM:
 
@@ -54,9 +54,11 @@
 
 ## Output:
 
+![2](https://github.com/jesu-smartia05/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514819/01ff8f54-a7a2-4347-80ff-971fec78d6d6)
 
-### Name:
-### Register Number: 
+
+### Name:JESU SMARTIA A
+### Register Number:212223110016 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
